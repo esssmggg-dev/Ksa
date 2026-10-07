@@ -1,0 +1,6 @@
+{
+  "name": "J&E Pink Chat",
+  "description": "شات وردي فوري وبث مباشر للرسائل والصور والمقاطع بين الأصدقاء J&E مع ملف شخصي مخصص",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "welcome-1",
+    "senderId": "user-j",
+    "senderName": "J",
+    "senderAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "type": "text",
+    "content": "أهلاً يا صديقي! مرحباً بك في شات J&E الوردي الخاص بنا 🌸💖",
+    "timestamp": 1791361846572,
+    "reactions": {
+      "user-e": "💖"
+    },
+    "seenBy": {
+      "user-j-qfhty": {
+        "userName": "Essam",
+        "userAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80",
+        "timestamp": 1791365449601
+      }
+    }
+  },
+  {
+    "id": "welcome-2",
+    "senderId": "user-e",
+    "senderName": "E",
+    "senderAvatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&auto=format&fit=crop&q=80",
+    "type": "text",
+    "content": "يا هلا! نقدر هنا نرسل كل الصور والمقاطع ونسولف بنفس الوقت بكل حب ولون وردي لطيف 🎀✨",
+    "timestamp": 1791363646572,
+    "reactions": {
+      "user-j": "✨"
+    },
+    "seenBy": {
+      "user-j-qfhty": {
+        "userName": "Essam",
+        "userAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80",
+        "timestamp": 1791365449601
+      }
+    }
+  },
+  {
+    "id": "ipa-file-shared",
+    "senderId": "user-j",
+    "senderName": "J",
+    "senderAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "type": "text",
+    "content": "📱 هذا ملف تطبيق الآيفون بصيغة IPA جاهز للتحميل والتثبيت المباشر: JE-Pink-Chat.ipa 💕",
+    "timestamp": 1791366050000,
+    "reactions": {
+      "user-e": "💖",
+      "user-j": "🌸"
+    },
+    "seenBy": {
+      "user-j-qfhty": {
+        "userName": "Essam",
+        "userAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80",
+        "timestamp": 1791368345030
+      }
+    }
+  }
+]
